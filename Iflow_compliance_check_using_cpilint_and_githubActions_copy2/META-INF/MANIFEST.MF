@@ -4,7 +4,7 @@ Bundle-Name: Iflow_compliance_check_using_cpilint_and_githubActions_copy
  2
 Bundle-SymbolicName: Iflow_compliance_check_using_cpilint_and_githubActi
  ons_copy2
-Bundle-Version: 1.0.3
+Bundle-Version: 1.0.4
 SAP-BundleType: IntegrationFlow
 SAP-NodeType: IFLMAP
 SAP-RuntimeProfile: iflmap
